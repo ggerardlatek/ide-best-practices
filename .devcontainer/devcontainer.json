@@ -1,0 +1,5 @@
+{
+    "build": { "dockerfile": "Dockerfile" },
+    "remoteUser": "ubuntu",
+    "postCreateCommand": "bash install-ml-requirements.sh"
+}

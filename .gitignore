@@ -6,3 +6,4 @@ __pycache__/
 dist/
 build/
 covid_analysis.egg-info/
+spark-warehouse/
