@@ -30,7 +30,7 @@ def colnames_df() -> pd.DataFrame:
 
 # Make sure the filter works as expected.
 def test_filter(raw_input_df):
-    filtered = filter_country(raw_input_df)
+    filtered = filter_country(raw_input_df, country="ITA")
     assert filtered.iso_code.drop_duplicates()[0] == "ITA"
 
 
