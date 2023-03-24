@@ -5,9 +5,17 @@ United States,USA,2022-04-17,Daily hospital occupancy,10000
 United States,USA,2022-04-17,Daily hospital occupancy per million,30.3
 United States,USA,2022-04-17,Weekly new hospital admissions,11000
 United States,USA,2022-04-17,Weekly new hospital admissions per million,32.8
-Algeria,DZA,2022-04-18,Daily ICU occupancy,1010
-Algeria,DZA,2022-04-18,Daily ICU occupancy per million,4.5
-Algeria,DZA,2022-04-18,Daily hospital occupancy,11000
-Algeria,DZA,2022-04-18,Daily hospital occupancy per million,30.9
-Algeria,DZA,2022-04-18,Weekly new hospital admissions,10000
-Algeria,DZA,2022-04-18,Weekly new hospital admissions per million,32.1
+Italy,ITA,2023-03-15,Daily ICU occupancy,96.0
+Italy,ITA,2023-03-15,Daily ICU occupancy per million,1.626
+Italy,ITA,2023-03-15,Daily hospital occupancy,2868.0
+Italy,ITA,2023-03-15,Daily hospital occupancy per million,48.579
+Italy,ITA,2023-03-15,Weekly new ICU admissions,67.0
+Italy,ITA,2023-03-15,Weekly new ICU admissions per million,1.135
+Italy,ITA,2023-03-15,Weekly new hospital admissions,1108.0
+Italy,ITA,2023-03-15,Weekly new hospital admissions per million,18.768
+Italy,ITA,2023-03-16,Daily ICU occupancy,104.0
+Italy,ITA,2023-03-16,Daily ICU occupancy per million,1.762
+Italy,ITA,2023-03-16,Daily hospital occupancy,2831.0
+Italy,ITA,2023-03-16,Daily hospital occupancy per million,47.953
+Italy,ITA,2023-03-16,Weekly new ICU admissions,77.0
+Italy,ITA,2023-03-16,Weekly new ICU admissions per million,1.304
