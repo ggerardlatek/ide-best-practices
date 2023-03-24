@@ -2,8 +2,11 @@
     "environments": {
         "default": {
             "profile": "DEFAULT",
-            "workspace_dir": "/Shared/dbx/projects/dbx-getting-started",
-            "artifact_location": "dbfs:/dbx/dbx-getting-started"
+            "storage_type": "mlflow",
+            "properties": {
+                "workspace_directory": "/Shared/dbx/projects/dbx-getting-started",
+                "artifact_location": "dbfs:/dbx/dbx-getting-started"
+            }
         }
     }
 }

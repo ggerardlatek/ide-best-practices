@@ -1,7 +1,7 @@
 environments:
   default:
     strict_path_adjustment_policy: true
-    jobs:
+    workflows:
       - name: "covid_analysis_etl_integ"
         new_cluster:
           spark_version: "10.4.x-scala2.12"
